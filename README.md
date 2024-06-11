@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jahnavi Bavisetti
 
 - 👀 I’m interested in Data analysis.
-- 🌱 I’m currently learning Excel, VBA, SQL, PowerBI.
+- 🌱 I’m currently learning Excel, SQL, PowerBI, Python.
 - 💞️ I’m looking to collaborate on data analysis and visualization projects.
 - 📫 How to reach me: jahnavi.bavisetti98@gmail.com or https://www.linkedin.com/in/jahnavi-bavisetti-ba9882264/
 
